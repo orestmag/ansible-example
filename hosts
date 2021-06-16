@@ -1,0 +1,8 @@
+[webservers]
+webserver_ubuntu20 ansible_host=34.136.41.225
+webserver_centos8 ansible_host=34.66.20.97
+
+[dbservers]
+dbserver_ubuntu20 ansible_host=35.193.131.70
+dbserver_centos8 ansible_host=34.136.69.254
+
